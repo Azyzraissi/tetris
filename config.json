@@ -1,0 +1,21 @@
+{
+  "color_palette": {
+      "BLACK": "#000000",
+      "WHITE": "#FFFFFF",
+      "CYAN": "#00FFFF",
+      "RED": "#FF0000",
+      "GREEN": "#00FF00",
+      "BLUE": "#0000FF",
+      "YELLOW": "#FFFF00",
+      "ORANGE": "#FFA500",
+      "PURPLE": "#800080"
+  },
+  "controls": {
+      "rotate": "z",
+      "left": "left",
+      "right": "right",
+      "down": "down",
+      "drop": "up",
+      "pause": "space"
+  }
+}
